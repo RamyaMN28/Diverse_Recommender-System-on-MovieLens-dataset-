@@ -30,13 +30,14 @@ Input: Provide a user_id to receive personalized movie recommendations.
 
 Output: View top movie recommendations based on the NCF model and ε-Greedy Exploration techniques.
 
-## Authors
-
-- [@Ramya M N](https://github.com/RamyaMN28)
-
 ## Documentation
 You can refer My Document -
 [Documentation](https://www.canva.com/design/DAGJ_MFqNjQ/eX-XpJcMiwF5-PVEsz_LaA/edit?utm_content=DAGJ_MFqNjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Author
+
+- [@Ramya M N](https://github.com/RamyaMN28)
+
 
 
 ## Acknowledgements
